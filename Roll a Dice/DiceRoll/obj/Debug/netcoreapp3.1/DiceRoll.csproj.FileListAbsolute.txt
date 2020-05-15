@@ -1,0 +1,11 @@
+C:\Users\mc_lo\OneDrive\Desktop\C#2019\Roll a Dice\DiceRoll\bin\Debug\netcoreapp3.1\DiceRoll.exe
+C:\Users\mc_lo\OneDrive\Desktop\C#2019\Roll a Dice\DiceRoll\bin\Debug\netcoreapp3.1\DiceRoll.deps.json
+C:\Users\mc_lo\OneDrive\Desktop\C#2019\Roll a Dice\DiceRoll\bin\Debug\netcoreapp3.1\DiceRoll.runtimeconfig.json
+C:\Users\mc_lo\OneDrive\Desktop\C#2019\Roll a Dice\DiceRoll\bin\Debug\netcoreapp3.1\DiceRoll.runtimeconfig.dev.json
+C:\Users\mc_lo\OneDrive\Desktop\C#2019\Roll a Dice\DiceRoll\bin\Debug\netcoreapp3.1\DiceRoll.dll
+C:\Users\mc_lo\OneDrive\Desktop\C#2019\Roll a Dice\DiceRoll\bin\Debug\netcoreapp3.1\DiceRoll.pdb
+C:\Users\mc_lo\OneDrive\Desktop\C#2019\Roll a Dice\DiceRoll\obj\Debug\netcoreapp3.1\DiceRoll.csprojAssemblyReference.cache
+C:\Users\mc_lo\OneDrive\Desktop\C#2019\Roll a Dice\DiceRoll\obj\Debug\netcoreapp3.1\DiceRoll.AssemblyInfoInputs.cache
+C:\Users\mc_lo\OneDrive\Desktop\C#2019\Roll a Dice\DiceRoll\obj\Debug\netcoreapp3.1\DiceRoll.AssemblyInfo.cs
+C:\Users\mc_lo\OneDrive\Desktop\C#2019\Roll a Dice\DiceRoll\obj\Debug\netcoreapp3.1\DiceRoll.dll
+C:\Users\mc_lo\OneDrive\Desktop\C#2019\Roll a Dice\DiceRoll\obj\Debug\netcoreapp3.1\DiceRoll.pdb
